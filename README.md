@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Research Software Engineer with a curiosity for creative coding.
+**I'm a Research Software Engineer with a curiosity for creative coding.**
 
 - 🔬 Creating digital research tools at [NorSC](https://www.northumbria.ac.uk/about-us/academic-departments/computer-and-information-sciences/research/northumbria-social-computing/)
 - 🎨 Experimenting with code as a creative medium
