@@ -64,6 +64,7 @@ and in the past [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&lo
 [![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?logo=git&logoColor=fff)](#)
 
 **Other**
+
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Jekyll](https://img.shields.io/badge/Jekyll-C00?logo=jekyll&logoColor=fff)](#)
