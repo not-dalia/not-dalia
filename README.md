@@ -2,7 +2,7 @@
 My name is Dalya. I also go by Dalia. Here's a little bit about me:
 
 - Research Software Engineer currently working at [NorSC](https://www.northumbria.ac.uk/about-us/academic-departments/computer-and-information-sciences/research/northumbria-social-computing/). 
-- Professional experience spans web, mobile, IoT, and embedded systems across academia and industry. 
+- I do a bit of web, mobile, IoT, and embedded systems. 
 - Curious about creative coding, interactive data visualization, and creating tiny tools for just about anything
 - I have a soft spot for Jekyll and Digital Gardens.
 - See more of what I've been up to on [my personal website](https://relevant.space/).
